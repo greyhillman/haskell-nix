@@ -1,7 +1,7 @@
 # Nix and Haskell in production
 
 This guide documents how I use Nix for Haskell development.  Feel free to open
-issues or pull requests if you would like to contribute or suggest improvements
+issues or pull requests if you would like to contribute or suggest improvements.
 
 The purpose of this project is to support two Haskell workflows:
 
